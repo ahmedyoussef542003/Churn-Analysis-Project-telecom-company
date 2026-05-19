@@ -86,5 +86,5 @@ To ensure maximum reliability and business impact, the project followed a rigoro
 ---
 
 ## 🔗 Project Deliverables & Links
-* 📊 **[Click Here to View the Interactive Live Dashboard](#)** *(Replace with your Power BI Service Link)*
-* 📄 **[Click Here to Download the Full Insights Document (PDF)](#)** *(Replace with your PDF file link)*
+* 📄 **[Click Here to Download the Full Insights Document (PDF)](https://github.com/ahmedyoussef542003/Churn-Analysis-Project-telecom-company/blob/994e47fb10c6ed57b2125520df78626f8131f262/Insights%20Doc.pdf)**
+* 📊 **[Click Here to Access the Power BI Project Source File (.PBIX)](https://github.com/ahmedyoussef542003/Churn-Analysis-Project-telecom-company/blob/994e47fb10c6ed57b2125520df78626f8131f262/final%20project%20dims.pbix)**
