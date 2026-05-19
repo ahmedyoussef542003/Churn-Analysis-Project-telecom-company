@@ -36,7 +36,7 @@ To ensure maximum reliability and business impact, the project followed a rigoro
 *Focuses on WHO is churning and WHERE the crisis is concentrated.*
 
 <p align="center">
-  <img src="images/p1.png" alt="Demographics Dashboard" width="800"/>
+  <img src="https://raw.githubusercontent.com/Ahmed-Youssef-Data/Databel-Churn-Analysis/main/images/p1.png" alt="Demographics Dashboard" width="800"/>
 </p>
 
 * **The Problem:** **Senior Citizens (65+)** represent a critical flight risk with a **38.46% churn rate** (compared to only 18.80% for younger demographics). Geographically, the crisis is heavily centralized in **California (CA)**.
