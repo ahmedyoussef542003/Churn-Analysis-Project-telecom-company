@@ -1,7 +1,7 @@
 # 📊 Databel Telecom Churn Analysis Case Study
 
 <p align="center">
-  <img src="images/Companylogo.png" alt="Databel Logo" width="220"/>
+  <img src="images/dbe72b.png" alt="Databel Logo" width="220"/>
 </p>
 
 ## 🎯 Project Overview
