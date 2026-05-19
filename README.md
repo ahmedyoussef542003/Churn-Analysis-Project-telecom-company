@@ -36,7 +36,7 @@ To ensure maximum reliability and business impact, the project followed a rigoro
 *Focuses on WHO is churning and WHERE the crisis is concentrated.*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmedyoussef542003/Churn-Analysis-Project-telecom-company/main/Images/p1.png" alt="Demographics Dashboard" width="800"/>
+  <img src="https://raw.githubusercontent.com/ahmedyoussef542003/Churn-Analysis-Project-telecom-company/main/Images/p1.jpeg" alt="Demographics Dashboard" width="800"/>
 </p>
 
 * **Problem 1 (Age Risk Factor):** Churn rate increases significantly as customers age, reaching a dangerous high of **33% to 44% for users over 60**.
@@ -52,7 +52,7 @@ To ensure maximum reliability and business impact, the project followed a rigoro
 *Focuses on WHAT product tiers and contract types are triggering customer exit.*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmedyoussef542003/Churn-Analysis-Project-telecom-company/main/Images/p2.png" alt="Service Plan Dashboard" width="800"/>
+  <img src="https://raw.githubusercontent.com/ahmedyoussef542003/Churn-Analysis-Project-telecom-company/main/Images/p2.jpeg" alt="Service Plan Dashboard" width="800"/>
 </p>
 
 * **Problem 1 (Unlimited Plan Friction):** Customers on Unlimited Data plans churn at **double the rate (32%)** compared to limited data users (16%), indicating the plan fails to build retention value.
@@ -68,7 +68,7 @@ To ensure maximum reliability and business impact, the project followed a rigoro
 *Focuses on WHY customers are leaving based on internal operations and competitors.*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmedyoussef542003/Churn-Analysis-Project-telecom-company/main/Images/p3.png" alt="Customer Support Dashboard" width="800"/>
+  <img src="https://raw.githubusercontent.com/ahmedyoussef542003/Churn-Analysis-Project-telecom-company/main/Images/p3.jpeg" alt="Customer Support Dashboard" width="800"/>
 </p>
 
 * **Problem 1 & 2 (Competitor Threats & Staff Behavior):** Competitor acquisition is the single biggest threat, driving over **800 customer losses** through better device offers and pricing models. This is heavily compounded by negative customer experiences linked to support staff attitudes.
