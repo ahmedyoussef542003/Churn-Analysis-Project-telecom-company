@@ -1,7 +1,7 @@
 # 📊 Databel Telecom Churn Analysis Case Study
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ahmed-Youssef-Data/Databel-Churn-Analysis/main/images/dbe72b.png" alt="Databel Logo" width="220"/>
+  <img src="https://raw.githubusercontent.com/ahmedyoussef542003/Churn-Analysis-Project-telecom-company/main/images/dbe72b.png" alt="Databel Logo" width="220"/>
 </p>
 
 ## 🎯 Project Overview
