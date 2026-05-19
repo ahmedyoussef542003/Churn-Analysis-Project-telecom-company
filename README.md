@@ -36,7 +36,7 @@ To ensure maximum reliability and business impact, the project followed a rigoro
 *Focuses on WHO is churning and WHERE the crisis is concentrated.*
 
 <p align="center">
-  <img src="images/Screenshot%202026-05-19%20125134.png" alt="Demographics Dashboard" width="800"/>
+  <img src="images/p1.png" alt="Demographics Dashboard" width="800"/>
 </p>
 
 * **The Problem:** **Senior Citizens (65+)** represent a critical flight risk with a **38.46% churn rate** (compared to only 18.80% for younger demographics). Geographically, the crisis is heavily centralized in **California (CA)**.
@@ -48,7 +48,7 @@ To ensure maximum reliability and business impact, the project followed a rigoro
 *Focuses on WHAT product tiers and contract types are triggering customer exit.*
 
 <p align="center">
-  <img src="images/Screenshot%202026-05-19%20125211.png" alt="Service Plan Dashboard" width="800"/>
+  <img src="images/p2.png" alt="Service Plan Dashboard" width="800"/>
 </p>
 
 * **The Problem:** **Month-to-Month contracts** are highly unstable, driving a massive **46.29% churn rate** and accounting for 76% of total lost customers. Furthermore, customers on Unlimited Data plans who consume **less than 5 GB** churn at double the rate, feeling low perceived value for money.
@@ -60,7 +60,7 @@ To ensure maximum reliability and business impact, the project followed a rigoro
 *Focuses on HOW internal company performance affects loyalty.*
 
 <p align="center">
-  <img src="images/Screenshot%202026-05-19%20125239.png" alt="Customer Support Dashboard" width="800"/>
+  <img src="images/p3.png" alt="Customer Support Dashboard" width="800"/>
 </p>
 
 * **The Problem:** Customer support interactions reveal a dangerous threshold: customer churn skyrockets to a massive **88% immediately following the 3rd support call**, escalating to 100% on subsequent calls.
